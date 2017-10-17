@@ -1,0 +1,51 @@
+hi { color: pink }
+
+body {
+	background: darkcyan;
+	color: white;
+	font-size: 14pt; 
+	font-family: 'Poppins', Medium;
+	border: 2px dotted black
+}
+
+
+
+
+IMG  {border: double black}
+
+
+
+h1 { font-size: 150%;
+	font-weight: bold;
+	color: White
+	
+}
+
+h2 { font-size: 150%;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+h3  {font-size: 14pt;
+      color: navy;
+      border: 2px solid black
+      }
+
+
+
+
+nav li { display: inline-block;
+	border: 2px solid black;
+	padding: 10px;
+	margin: 5px;
+	background: white }
+	
+
+a { color: darkred;
+	text-decoration: none }
+a:hover { color: red }
+
+
+	
+	
+

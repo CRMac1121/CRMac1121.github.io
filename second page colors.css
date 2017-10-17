@@ -1,0 +1,39 @@
+hi { color: pink }
+
+body {
+	background: orange;
+	color: gray;
+	font-size: 14pt; 
+	font-family: 'Oswald';
+}
+
+IMG  {border: solid white}
+
+
+h1 { font-size: 150%;
+	font-weight: bold;
+	color: Black
+}
+
+
+
+h2 { font-size: 150%;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+nav li { display: inline-block;
+	border: 2px solid black;
+	padding: 10px;
+	margin: 5px;
+	background: white }
+	
+
+a { color: darkred;
+	text-decoration: none }
+a:hover { color: red }
+
+
+	
+	
+
